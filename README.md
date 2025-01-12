@@ -1,21 +1,29 @@
-### Curso de QA Automation
+# Curso de QA Automation
 
-#### Módulo 1: Fundamentos de Testing
-	1.	Introducción al Testing de Software
-	•	Ciclo de vida del desarrollo de software (SDLC y STLC).
-	•	Tipos de pruebas: unitarias, integración, sistema, aceptación.
-	•	Testing manual vs. automatizado.
-	2.	Principios del Testing
-	•	Importancia del testing.
-	•	Principios básicos (por ejemplo, ausencia de errores no implica calidad).
+## Módulo 1: Fundamentos de Testing
+1.	Introducción al Testing de Software
+2. Ciclo de vida del desarrollo de software (SDLC y STLC).
+3. Tipos de pruebas: unitarias, integración, sistema, aceptación.
+4.	Testing manual vs. automatizado.
+5.	Principios del Testing
+6.	Importancia del testing.
+7.	Principios básicos (por ejemplo, ausencia de errores no implica calidad).
 #### Módulo 2: Fundamentos de la Automatización de Pruebas
-	1.	¿Qué es la Automatización de Pruebas?
-	•	Beneficios y desafíos.
-	•	Cuándo automatizar y cuándo no.
-	2.	Frameworks de Automatización
-	•	Tipos: lineal, modular, basado en palabras clave, híbrido, basado en datos.
-	3.	Introducción a Herramientas de Automatización
-	•	Selenium, Playwright, Cypress, Appium (entre otras).
+1.	¿Qué es la Automatización de Pruebas?
+	 -	Beneficios y desafíos.
+	 -	Cuándo automatizar y cuándo no.
+2.	Frameworks de Automatización
+	 1.	lineal
+     2. modular
+     3. basado en palabras clave
+     4. basado en datos
+     5. híbrido
+3.	Introducción a Herramientas de Automatización
+	 1. Selenium
+	 2. Playwright
+	 3. Cypress
+	 4. Appium
+	 5. API
 #### Módulo 3: Programación para QA Automation
 	1.	Introducción a la Programación
 	•	Conceptos básicos: variables, estructuras de control, funciones.
