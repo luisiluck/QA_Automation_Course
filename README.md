@@ -34,16 +34,16 @@
 	 - Listas, arreglos, pilas, colas.
 	 - Conceptos básicos de algoritmos (ordenación, búsqueda).
 ## Módulo 4: Herramientas y Tecnologías Esenciales
-	1.	Automatización Web
-	•	Selenium WebDriver: Instalación, configuración y primeros scripts.
-	•	Introducción a locators: XPath, CSS Selectors.
-	•	Manejo de elementos dinámicos.
-	2.	Automatización Mobile
-	•	Introducción a Appium.
-	•	Configuración para iOS y Android.
-	3.	Gestión de Datos de Prueba
-	•	Estrategias de generación y gestión de datos.
-	•	Herramientas: Faker, Factory Boy.
+1.	Automatización Web
+	 -	Selenium WebDriver: Instalación, configuración y primeros scripts.
+	 -	Introducción a locators: XPath, CSS Selectors.
+	 -	Manejo de elementos dinámicos.
+2.	Automatización Mobile
+	-	Introducción a Appium.
+	-	Configuración para iOS y Android.
+3.	Gestión de Datos de Prueba
+	-	Estrategias de generación y gestión de datos.
+	-	Herramientas: Faker, Factory Boy.
 ## Módulo 5: Diseño de Frameworks de Automatización
 	1.	Configuración del Entorno
 	•	Uso de control de versiones (Git).
