@@ -25,14 +25,14 @@
 	 4. Appium
 	 5. API
 ## Módulo 3: Programación para QA Automation
-	1.	Introducción a la Programación
-	•	Conceptos básicos: variables, estructuras de control, funciones.
-	•	Buenas prácticas de codificación.
-	2.	Lenguajes de Programación Populares
-	•	Java, Python, JavaScript, o C# (elige según tu mercado objetivo).
-	3.	Estructuras de Datos y Algoritmos Básicos
-	•	Listas, arreglos, pilas, colas.
-	•	Conceptos básicos de algoritmos (ordenación, búsqueda).
+1.	Introducción a la Programación
+     - Conceptos básicos: variables, estructuras de control, funciones.
+	 - Buenas prácticas de codificación.
+2.	Lenguajes de Programación Populares
+     - Java, Python, JavaScript, o C# (elige según tu mercado objetivo).
+3.	Estructuras de Datos y Algoritmos Básicos
+	 - Listas, arreglos, pilas, colas.
+	 - Conceptos básicos de algoritmos (ordenación, búsqueda).
 ## Módulo 4: Herramientas y Tecnologías Esenciales
 	1.	Automatización Web
 	•	Selenium WebDriver: Instalación, configuración y primeros scripts.
